@@ -1,0 +1,38 @@
+[
+{
+  "directory": "E:/OOP Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\OOP_Project.dir\\main.cpp.obj -c \"E:\\OOP Project\\main.cpp\"",
+  "file": "E:/OOP Project/main.cpp",
+  "output": "E:/OOP Project/cmake-build-debug/CMakeFiles/OOP_Project.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/OOP Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\OOP_Project.dir\\Employee.cpp.obj -c \"E:\\OOP Project\\Employee.cpp\"",
+  "file": "E:/OOP Project/Employee.cpp",
+  "output": "E:/OOP Project/cmake-build-debug/CMakeFiles/OOP_Project.dir/Employee.cpp.obj"
+},
+{
+  "directory": "E:/OOP Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\OOP_Project.dir\\Developer.cpp.obj -c \"E:\\OOP Project\\Developer.cpp\"",
+  "file": "E:/OOP Project/Developer.cpp",
+  "output": "E:/OOP Project/cmake-build-debug/CMakeFiles/OOP_Project.dir/Developer.cpp.obj"
+},
+{
+  "directory": "E:/OOP Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\OOP_Project.dir\\Manager.cpp.obj -c \"E:\\OOP Project\\Manager.cpp\"",
+  "file": "E:/OOP Project/Manager.cpp",
+  "output": "E:/OOP Project/cmake-build-debug/CMakeFiles/OOP_Project.dir/Manager.cpp.obj"
+},
+{
+  "directory": "E:/OOP Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\OOP_Project.dir\\Utilities.cpp.obj -c \"E:\\OOP Project\\Utilities.cpp\"",
+  "file": "E:/OOP Project/Utilities.cpp",
+  "output": "E:/OOP Project/cmake-build-debug/CMakeFiles/OOP_Project.dir/Utilities.cpp.obj"
+},
+{
+  "directory": "E:/OOP Project/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\OOP_Project.dir\\EmployeeManagement.cpp.obj -c \"E:\\OOP Project\\EmployeeManagement.cpp\"",
+  "file": "E:/OOP Project/EmployeeManagement.cpp",
+  "output": "E:/OOP Project/cmake-build-debug/CMakeFiles/OOP_Project.dir/EmployeeManagement.cpp.obj"
+}
+]

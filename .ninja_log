@@ -1,0 +1,8 @@
+# ninja log v6
+8	596	8011751864635086	CMakeFiles/OOP_Project.dir/Employee.cpp.obj	ec9c5725489afdb5
+13	598	8011751864678432	CMakeFiles/OOP_Project.dir/Developer.cpp.obj	2dd96a3440ec8c7f
+23	607	8011751864781352	CMakeFiles/OOP_Project.dir/Utilities.cpp.obj	b7cac9ebd4b9d1ee
+18	618	8011751864730191	CMakeFiles/OOP_Project.dir/Manager.cpp.obj	a258b9af7665c836
+2	656	8011751864566300	CMakeFiles/OOP_Project.dir/main.cpp.obj	8e851d34d9f33f47
+30	866	8011751864853596	CMakeFiles/OOP_Project.dir/EmployeeManagement.cpp.obj	9ac9ed7581154f
+866	1160	8011751873212604	OOP_Project.exe	813dfc2629978927
